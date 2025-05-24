@@ -65,3 +65,23 @@ source env/bin/activate
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+cd frontend
+npm install
+npm run dev
+```
+![image](https://github.com/user-attachments/assets/8e816f38-342a-4a2d-b8a8-14c38231478a)
+![image](https://github.com/user-attachments/assets/a765175f-c5fa-42e6-ae8a-9444f3b04f18)
+![image](https://github.com/user-attachments/assets/b337eb61-d168-443e-8eb9-2289d0be7147)
+![image](https://github.com/user-attachments/assets/11ca5f94-b8ca-44c1-b76f-b5bbcf014104)
+![image](https://github.com/user-attachments/assets/7a29e051-1253-411c-a979-08043f2cfec8)
+![image](https://github.com/user-attachments/assets/37292127-e6c4-4c84-b27b-f5077fd7e77d)
+
+
+
+🧑‍💻 Geliştirici
+Kadir Gümüşbaş
+
+Proje türü: Web teknolojileri staj projesi
+
+Amaç: Vue ve Django REST Framework ile modern bir konum tabanlı üyelik sistemi geliştirmek
